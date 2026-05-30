@@ -88,7 +88,8 @@ Swagger Docs:
 ```bash
 http://localhost:3000/api-docs
 ```
-
+live link
+https://vyomxpress.onrender.com
 ---
 
 ## Discord Commands
